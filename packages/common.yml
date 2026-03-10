@@ -30,13 +30,6 @@ text_sensor:
     icon: mdi:cube-outline
   - platform: wifi_info
     id: esphome_tesla_ble_wifi_info
-    ip_address:
-      name: "IP Address"
-      id: esphome_tesla_ble_wifi_info
-    ssid:
-      name: WiFi SSID
-    bssid:
-      name: WiFi BSSID
 
 time:
   - platform: homeassistant
