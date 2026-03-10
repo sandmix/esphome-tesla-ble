@@ -28,8 +28,6 @@ text_sensor:
     id: esphome_tesla_ble_version
     name: "Version"
     icon: mdi:cube-outline
-  - platform: wifi_info
-    id: esphome_tesla_ble_wifi_info
 
 time:
   - platform: homeassistant
