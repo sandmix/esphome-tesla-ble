@@ -1,2 +1,0 @@
-- components: [tesla_ble_vehicle, tesla_ble_listener]
-  source: github://PedroKTFC/esphome-tesla-ble
